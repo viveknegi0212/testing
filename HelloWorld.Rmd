@@ -1,0 +1,14 @@
+---
+title: "Helloworld"
+author: "vivek negi"
+date: "1/18/2021"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+```{bash}
+```
+## This is a markdown file
+
